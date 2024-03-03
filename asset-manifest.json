@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VineelSaiMeesala/StockData.com/static/css/main.446e5373.css",
-    "main.js": "/VineelSaiMeesala/StockData.com/static/js/main.c06a532a.js",
-    "static/js/787.4999777e.chunk.js": "/VineelSaiMeesala/StockData.com/static/js/787.4999777e.chunk.js",
-    "index.html": "/VineelSaiMeesala/StockData.com/index.html",
-    "main.446e5373.css.map": "/VineelSaiMeesala/StockData.com/static/css/main.446e5373.css.map",
-    "main.c06a532a.js.map": "/VineelSaiMeesala/StockData.com/static/js/main.c06a532a.js.map",
-    "787.4999777e.chunk.js.map": "/VineelSaiMeesala/StockData.com/static/js/787.4999777e.chunk.js.map"
+    "main.css": "/StockData.com/static/css/main.446e5373.css",
+    "main.js": "/StockData.com/static/js/main.c1a5cf4a.js",
+    "static/js/787.4999777e.chunk.js": "/StockData.com/static/js/787.4999777e.chunk.js",
+    "index.html": "/StockData.com/index.html",
+    "main.446e5373.css.map": "/StockData.com/static/css/main.446e5373.css.map",
+    "main.c1a5cf4a.js.map": "/StockData.com/static/js/main.c1a5cf4a.js.map",
+    "787.4999777e.chunk.js.map": "/StockData.com/static/js/787.4999777e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.446e5373.css",
-    "static/js/main.c06a532a.js"
+    "static/js/main.c1a5cf4a.js"
   ]
 }
