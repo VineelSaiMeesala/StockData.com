@@ -17,7 +17,7 @@ function GainLooser() {
         async function marketData() {
             try {
                 const Gainresponse = await fetch(GainUrl, options);                
-                const Loseresponse = await fetch(GainUrl, options);                
+                const Loseresponse = await fetch(LoseUrl, options);                
                 const Gainerdata = await Gainresponse.json();
                 const Looserdata = await Loseresponse.json();
                 SetGainData(Gainerdata.data.trends);
