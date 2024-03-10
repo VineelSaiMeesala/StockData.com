@@ -1,0 +1,17 @@
+.GainLooseMainWrap{
+    width: 100%;
+    position: relative;
+    top: 35px;
+    right: -90px;
+}
+.AsideStyle{
+    width: 120%;
+    box-sizing: border-box;
+    font-size: 10px;
+    font-weight: lighter;
+}
+.DataWrap{
+    text-align: left;
+    align-items: center;
+    border-radius: 5px;
+}

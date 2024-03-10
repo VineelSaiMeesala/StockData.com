@@ -11,3 +11,16 @@
 .StockDetails{
   text-align: center;
 }
+.aside {
+  width: 30%;
+  float: right;
+}
+
+.main-content {
+  width: 70%;
+  float: left;
+}
+.SearchWrapper{
+  position: relative;
+  right: -130px;
+}
